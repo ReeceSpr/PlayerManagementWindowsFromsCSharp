@@ -1,0 +1,13 @@
+C:\Users\Reece\OneDrive - Massey University\Second Year\App and Soft\Assignment 3\Assignment 3\Assignment 3\bin\Debug\Assignment 3.exe.config
+C:\Users\Reece\OneDrive - Massey University\Second Year\App and Soft\Assignment 3\Assignment 3\Assignment 3\bin\Debug\Assignment 3.exe
+C:\Users\Reece\OneDrive - Massey University\Second Year\App and Soft\Assignment 3\Assignment 3\Assignment 3\bin\Debug\Assignment 3.pdb
+C:\Users\Reece\OneDrive - Massey University\Second Year\App and Soft\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\Reece\OneDrive - Massey University\Second Year\App and Soft\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Assignment_3.Main.resources
+C:\Users\Reece\OneDrive - Massey University\Second Year\App and Soft\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Assignment_3.Properties.Resources.resources
+C:\Users\Reece\OneDrive - Massey University\Second Year\App and Soft\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csproj.GenerateResource.cache
+C:\Users\Reece\OneDrive - Massey University\Second Year\App and Soft\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\Reece\OneDrive - Massey University\Second Year\App and Soft\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Assignment 3.exe
+C:\Users\Reece\OneDrive - Massey University\Second Year\App and Soft\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Assignment 3.pdb
+C:\Users\Reece\OneDrive - Massey University\Second Year\App and Soft\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Assignment_3.AddPlayerForm.resources
+C:\Users\Reece\OneDrive - Massey University\Second Year\App and Soft\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Assignment_3.AddTeamForm.resources
+C:\Users\Reece\OneDrive - Massey University\Second Year\App and Soft\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Assignment_3.SignPlayer.resources
